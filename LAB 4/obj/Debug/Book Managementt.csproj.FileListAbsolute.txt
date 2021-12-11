@@ -1,0 +1,11 @@
+C:\c sharp\Book Managementt\obj\Debug\Book Managementt.csproj.AssemblyReference.cache
+C:\c sharp\Book Managementt\obj\Debug\Book Managementt.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\Book Managementt\obj\Debug\Book_Managementt.Form1.resources
+C:\c sharp\Book Managementt\obj\Debug\Book_Managementt.Properties.Resources.resources
+C:\c sharp\Book Managementt\obj\Debug\Book Managementt.csproj.GenerateResource.cache
+C:\c sharp\Book Managementt\obj\Debug\Book Managementt.csproj.CoreCompileInputs.cache
+C:\c sharp\Book Managementt\bin\Debug\Book Managementt.exe.config
+C:\c sharp\Book Managementt\bin\Debug\Book Managementt.exe
+C:\c sharp\Book Managementt\bin\Debug\Book Managementt.pdb
+C:\c sharp\Book Managementt\obj\Debug\Book Managementt.exe
+C:\c sharp\Book Managementt\obj\Debug\Book Managementt.pdb
