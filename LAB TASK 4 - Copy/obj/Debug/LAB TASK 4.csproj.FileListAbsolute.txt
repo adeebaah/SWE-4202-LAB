@@ -1,0 +1,11 @@
+C:\c sharp\LAB TASK 4\bin\Debug\LAB TASK 4.exe.config
+C:\c sharp\LAB TASK 4\bin\Debug\LAB TASK 4.exe
+C:\c sharp\LAB TASK 4\bin\Debug\LAB TASK 4.pdb
+C:\c sharp\LAB TASK 4\obj\Debug\LAB TASK 4.csproj.AssemblyReference.cache
+C:\c sharp\LAB TASK 4\obj\Debug\LAB TASK 4.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\LAB TASK 4\obj\Debug\LAB_TASK_4.Properties.Resources.resources
+C:\c sharp\LAB TASK 4\obj\Debug\LAB TASK 4.csproj.GenerateResource.cache
+C:\c sharp\LAB TASK 4\obj\Debug\LAB TASK 4.csproj.CoreCompileInputs.cache
+C:\c sharp\LAB TASK 4\obj\Debug\LAB TASK 4.exe
+C:\c sharp\LAB TASK 4\obj\Debug\LAB TASK 4.pdb
+C:\c sharp\LAB TASK 4\obj\Debug\LAB_TASK_4.powerbox.resources
