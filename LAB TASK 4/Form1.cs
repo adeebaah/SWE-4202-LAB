@@ -103,7 +103,7 @@ namespace LAB_TASK_4
             foreach(Medecine medicine in medicines)
             {
 
-                total.totalbalance = total.totalbalance + medicine.price;
+                total.totalbalance = total.totalbalance + (medicine.price*medicine.quantity);
 
             }
             balancelabelbox.Text = Convert.ToString(total.totalbalance);

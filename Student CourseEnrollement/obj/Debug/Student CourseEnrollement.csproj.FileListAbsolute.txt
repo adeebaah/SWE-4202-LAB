@@ -1,0 +1,11 @@
+C:\c sharp\Student CourseEnrollement\obj\Debug\Student CourseEnrollement.csproj.AssemblyReference.cache
+C:\c sharp\Student CourseEnrollement\obj\Debug\Student CourseEnrollement.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\Student CourseEnrollement\obj\Debug\Student_CourseEnrollement.Form1.resources
+C:\c sharp\Student CourseEnrollement\obj\Debug\Student_CourseEnrollement.Properties.Resources.resources
+C:\c sharp\Student CourseEnrollement\obj\Debug\Student CourseEnrollement.csproj.GenerateResource.cache
+C:\c sharp\Student CourseEnrollement\obj\Debug\Student CourseEnrollement.csproj.CoreCompileInputs.cache
+C:\c sharp\Student CourseEnrollement\bin\Debug\Student CourseEnrollement.exe.config
+C:\c sharp\Student CourseEnrollement\bin\Debug\Student CourseEnrollement.exe
+C:\c sharp\Student CourseEnrollement\bin\Debug\Student CourseEnrollement.pdb
+C:\c sharp\Student CourseEnrollement\obj\Debug\Student CourseEnrollement.exe
+C:\c sharp\Student CourseEnrollement\obj\Debug\Student CourseEnrollement.pdb
