@@ -1,0 +1,15 @@
+C:\c sharp\shape11\bin\Debug\net6.0\shape11.exe
+C:\c sharp\shape11\bin\Debug\net6.0\shape11.deps.json
+C:\c sharp\shape11\bin\Debug\net6.0\shape11.runtimeconfig.json
+C:\c sharp\shape11\bin\Debug\net6.0\shape11.dll
+C:\c sharp\shape11\bin\Debug\net6.0\ref\shape11.dll
+C:\c sharp\shape11\bin\Debug\net6.0\shape11.pdb
+C:\c sharp\shape11\obj\Debug\net6.0\shape11.csproj.AssemblyReference.cache
+C:\c sharp\shape11\obj\Debug\net6.0\shape11.GeneratedMSBuildEditorConfig.editorconfig
+C:\c sharp\shape11\obj\Debug\net6.0\shape11.AssemblyInfoInputs.cache
+C:\c sharp\shape11\obj\Debug\net6.0\shape11.AssemblyInfo.cs
+C:\c sharp\shape11\obj\Debug\net6.0\shape11.csproj.CoreCompileInputs.cache
+C:\c sharp\shape11\obj\Debug\net6.0\shape11.dll
+C:\c sharp\shape11\obj\Debug\net6.0\ref\shape11.dll
+C:\c sharp\shape11\obj\Debug\net6.0\shape11.pdb
+C:\c sharp\shape11\obj\Debug\net6.0\shape11.genruntimeconfig.cache
