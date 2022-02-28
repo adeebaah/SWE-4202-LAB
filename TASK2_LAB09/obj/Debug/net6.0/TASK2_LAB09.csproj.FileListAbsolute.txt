@@ -1,0 +1,15 @@
+C:\c sharp\TASK2_LAB09\bin\Debug\net6.0\TASK2_LAB09.exe
+C:\c sharp\TASK2_LAB09\bin\Debug\net6.0\TASK2_LAB09.deps.json
+C:\c sharp\TASK2_LAB09\bin\Debug\net6.0\TASK2_LAB09.runtimeconfig.json
+C:\c sharp\TASK2_LAB09\bin\Debug\net6.0\TASK2_LAB09.dll
+C:\c sharp\TASK2_LAB09\bin\Debug\net6.0\ref\TASK2_LAB09.dll
+C:\c sharp\TASK2_LAB09\bin\Debug\net6.0\TASK2_LAB09.pdb
+C:\c sharp\TASK2_LAB09\obj\Debug\net6.0\TASK2_LAB09.csproj.AssemblyReference.cache
+C:\c sharp\TASK2_LAB09\obj\Debug\net6.0\TASK2_LAB09.GeneratedMSBuildEditorConfig.editorconfig
+C:\c sharp\TASK2_LAB09\obj\Debug\net6.0\TASK2_LAB09.AssemblyInfoInputs.cache
+C:\c sharp\TASK2_LAB09\obj\Debug\net6.0\TASK2_LAB09.AssemblyInfo.cs
+C:\c sharp\TASK2_LAB09\obj\Debug\net6.0\TASK2_LAB09.csproj.CoreCompileInputs.cache
+C:\c sharp\TASK2_LAB09\obj\Debug\net6.0\TASK2_LAB09.dll
+C:\c sharp\TASK2_LAB09\obj\Debug\net6.0\ref\TASK2_LAB09.dll
+C:\c sharp\TASK2_LAB09\obj\Debug\net6.0\TASK2_LAB09.pdb
+C:\c sharp\TASK2_LAB09\obj\Debug\net6.0\TASK2_LAB09.genruntimeconfig.cache

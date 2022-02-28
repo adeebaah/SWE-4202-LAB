@@ -137,7 +137,7 @@ namespace Shape
             {
                 double s;
                 s = (side_a + side_b + side_c) / 2;
-                return Math.Sqrt(s * (s - side_a) * (s - side_b) * (s - side_c));
+                return (Math.Sqrt(s * (s - side_a) * (s - side_b) * (s - side_c)));
             }
             public override double perimeter(double side_a, double side_b, double side_c)
             {

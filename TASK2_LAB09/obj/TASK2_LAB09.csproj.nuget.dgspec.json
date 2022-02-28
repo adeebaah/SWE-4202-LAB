@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c sharp\\github\\SWE-4202-LAB\\shape11\\shape11.csproj": {}
+    "C:\\c sharp\\TASK2_LAB09\\TASK2_LAB09.csproj": {}
   },
   "projects": {
-    "C:\\c sharp\\github\\SWE-4202-LAB\\shape11\\shape11.csproj": {
+    "C:\\c sharp\\TASK2_LAB09\\TASK2_LAB09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c sharp\\github\\SWE-4202-LAB\\shape11\\shape11.csproj",
-        "projectName": "shape11",
-        "projectPath": "C:\\c sharp\\github\\SWE-4202-LAB\\shape11\\shape11.csproj",
+        "projectUniqueName": "C:\\c sharp\\TASK2_LAB09\\TASK2_LAB09.csproj",
+        "projectName": "TASK2_LAB09",
+        "projectPath": "C:\\c sharp\\TASK2_LAB09\\TASK2_LAB09.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\c sharp\\github\\SWE-4202-LAB\\shape11\\obj\\",
+        "outputPath": "C:\\c sharp\\TASK2_LAB09\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
