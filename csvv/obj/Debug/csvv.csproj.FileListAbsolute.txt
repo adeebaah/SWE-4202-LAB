@@ -1,0 +1,11 @@
+C:\c sharp\csvv\obj\Debug\csvv.csproj.AssemblyReference.cache
+C:\c sharp\csvv\obj\Debug\csvv.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\csvv\obj\Debug\csvv.Form1.resources
+C:\c sharp\csvv\obj\Debug\csvv.Properties.Resources.resources
+C:\c sharp\csvv\obj\Debug\csvv.csproj.GenerateResource.cache
+C:\c sharp\csvv\obj\Debug\csvv.csproj.CoreCompileInputs.cache
+C:\c sharp\csvv\bin\Debug\csvv.exe.config
+C:\c sharp\csvv\bin\Debug\csvv.exe
+C:\c sharp\csvv\bin\Debug\csvv.pdb
+C:\c sharp\csvv\obj\Debug\csvv.exe
+C:\c sharp\csvv\obj\Debug\csvv.pdb
