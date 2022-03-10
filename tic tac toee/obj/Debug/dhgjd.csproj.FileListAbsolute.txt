@@ -1,0 +1,11 @@
+C:\c sharp\dhgjd\bin\Debug\dhgjd.exe.config
+C:\c sharp\dhgjd\bin\Debug\dhgjd.exe
+C:\c sharp\dhgjd\bin\Debug\dhgjd.pdb
+C:\c sharp\dhgjd\obj\Debug\dhgjd.csproj.AssemblyReference.cache
+C:\c sharp\dhgjd\obj\Debug\dhgjd.csproj.SuggestedBindingRedirects.cache
+C:\c sharp\dhgjd\obj\Debug\dhgjd.B2.resources
+C:\c sharp\dhgjd\obj\Debug\dhgjd.Properties.Resources.resources
+C:\c sharp\dhgjd\obj\Debug\dhgjd.csproj.GenerateResource.cache
+C:\c sharp\dhgjd\obj\Debug\dhgjd.csproj.CoreCompileInputs.cache
+C:\c sharp\dhgjd\obj\Debug\dhgjd.exe
+C:\c sharp\dhgjd\obj\Debug\dhgjd.pdb
