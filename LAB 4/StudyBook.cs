@@ -27,8 +27,7 @@ namespace Book_Managementt
 
         public string getInfo()
         {
-            string bookslist = id + title + author + ISM + quantity;
-            return bookslist;
+            return this.id.ToString() + "\t" + this.title + "\t" + this.author + "\t" + this.quantity;
         }
     }
 }

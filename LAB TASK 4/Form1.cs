@@ -31,15 +31,9 @@ namespace LAB_TASK_4
             int quantity = Convert.ToInt32(quantitytextbox.Text);
             string power = powertextbox.Text;
 
+            Medecine dummy_m=new Medecine(id, name, power, quantity, price);
+            medicines.Add(dummy_m);
 
-            Medecine medicine = new Medecine();
-            medicine.id = id;
-            medicine.price = price;
-            medicine.power = power;
-            medicine.name = name;
-            medicine.quantity = quantity;
-
-            medicines.Add(medicine);
             MessageBox.Show("Medicines has been added!!");
 
 

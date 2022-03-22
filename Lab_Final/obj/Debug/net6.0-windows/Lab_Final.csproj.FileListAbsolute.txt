@@ -1,0 +1,17 @@
+C:\c sharp\Lab_Final\bin\Debug\net6.0-windows\Lab_Final.exe
+C:\c sharp\Lab_Final\bin\Debug\net6.0-windows\Lab_Final.deps.json
+C:\c sharp\Lab_Final\bin\Debug\net6.0-windows\Lab_Final.runtimeconfig.json
+C:\c sharp\Lab_Final\bin\Debug\net6.0-windows\Lab_Final.dll
+C:\c sharp\Lab_Final\bin\Debug\net6.0-windows\ref\Lab_Final.dll
+C:\c sharp\Lab_Final\bin\Debug\net6.0-windows\Lab_Final.pdb
+C:\c sharp\Lab_Final\obj\Debug\net6.0-windows\Lab_Final.csproj.AssemblyReference.cache
+C:\c sharp\Lab_Final\obj\Debug\net6.0-windows\Lab_Final.Form1.resources
+C:\c sharp\Lab_Final\obj\Debug\net6.0-windows\Lab_Final.csproj.GenerateResource.cache
+C:\c sharp\Lab_Final\obj\Debug\net6.0-windows\Lab_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\c sharp\Lab_Final\obj\Debug\net6.0-windows\Lab_Final.AssemblyInfoInputs.cache
+C:\c sharp\Lab_Final\obj\Debug\net6.0-windows\Lab_Final.AssemblyInfo.cs
+C:\c sharp\Lab_Final\obj\Debug\net6.0-windows\Lab_Final.csproj.CoreCompileInputs.cache
+C:\c sharp\Lab_Final\obj\Debug\net6.0-windows\Lab_Final.dll
+C:\c sharp\Lab_Final\obj\Debug\net6.0-windows\ref\Lab_Final.dll
+C:\c sharp\Lab_Final\obj\Debug\net6.0-windows\Lab_Final.pdb
+C:\c sharp\Lab_Final\obj\Debug\net6.0-windows\Lab_Final.genruntimeconfig.cache

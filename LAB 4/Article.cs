@@ -11,7 +11,7 @@ namespace Book_Managementt
         public string doi;
         public string con;
 
-        public Article(string id, string title, string author, string doi, string publisher, string con)
+        public Article(int id, string title, string author, string doi, string publisher, string con)
         {
             this.id = id;
             this.title = title;
@@ -26,8 +26,7 @@ namespace Book_Managementt
         }
         public string getInfo()
         {
-            string articlelist = id + "t"+ title  + "t"+ author + "t"+ doi + "t"+ publisher +"t" + con;
-            return articlelist;
+            return this.id.ToString() + "/t" + this.title + "/t" + this.author;
         }
     }
 }

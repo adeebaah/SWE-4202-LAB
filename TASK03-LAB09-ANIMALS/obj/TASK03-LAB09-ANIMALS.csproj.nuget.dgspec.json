@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c sharp\\TASK03-LAB09-ANIMALS\\TASK03-LAB09-ANIMALS.csproj": {}
+    "C:\\c sharp\\github\\SWE-4202-LAB\\TASK03-LAB09-ANIMALS\\TASK03-LAB09-ANIMALS.csproj": {}
   },
   "projects": {
-    "C:\\c sharp\\TASK03-LAB09-ANIMALS\\TASK03-LAB09-ANIMALS.csproj": {
+    "C:\\c sharp\\github\\SWE-4202-LAB\\TASK03-LAB09-ANIMALS\\TASK03-LAB09-ANIMALS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c sharp\\TASK03-LAB09-ANIMALS\\TASK03-LAB09-ANIMALS.csproj",
+        "projectUniqueName": "C:\\c sharp\\github\\SWE-4202-LAB\\TASK03-LAB09-ANIMALS\\TASK03-LAB09-ANIMALS.csproj",
         "projectName": "TASK03-LAB09-ANIMALS",
-        "projectPath": "C:\\c sharp\\TASK03-LAB09-ANIMALS\\TASK03-LAB09-ANIMALS.csproj",
+        "projectPath": "C:\\c sharp\\github\\SWE-4202-LAB\\TASK03-LAB09-ANIMALS\\TASK03-LAB09-ANIMALS.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\c sharp\\TASK03-LAB09-ANIMALS\\obj\\",
+        "outputPath": "C:\\c sharp\\github\\SWE-4202-LAB\\TASK03-LAB09-ANIMALS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

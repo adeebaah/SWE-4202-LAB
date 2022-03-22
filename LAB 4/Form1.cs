@@ -36,7 +36,7 @@ namespace Book_Managementt
 
 
             StudyBook dummy = new StudyBook(id, title, author, ism, quantity);
-
+            books.Add(dummy);
 
 
                 MessageBox.Show("study books has been added.");
@@ -47,13 +47,15 @@ namespace Book_Managementt
 
         private void AddResearchBookButton_Click(object sender, EventArgs e)
         {
-            string id = ResearchIDTextBox.Text;
+            int id = Convert.ToInt32(ResearchIDTextBox.Text);
             string title = ResearchTitleTextBox.Text;
             string author = ResearchAuthorTextBox.Text;
             string publisher = ResearchPublisherTextBox.Text;
             string doi = DOITextBox.Text;
             string con = JournalTextBox.Text;
             Article dummy2 = new Article(id, title, author, publisher, doi, con);
+            articles.Add(dummy2);
+
 
             MessageBox.Show("Research articles has been added");
 
@@ -62,11 +64,12 @@ namespace Book_Managementt
         private void button3_Click(object sender, EventArgs e)
         {
             StudyBookListBox.Items.Clear();
-            for (int i=0; i < books.Count;i++)
+            for (int i=0; i <books.Count;i++)
                 {
                 StudyBookListBox.Items.Add(books[i].getInfo());
             }
         }
+        
 
         private void button5_Click(object sender, EventArgs e)
         {
@@ -89,7 +92,7 @@ namespace Book_Managementt
             {
                 if (studybook.id == studybookid)
                 {
-                    studybook.quantity = -1;
+                    studybook.quantity -= 1;
                 }
 
             }
@@ -103,7 +106,7 @@ namespace Book_Managementt
             {
                 if(article.id==articleid)
                 {
-                    article.quantity = -1;
+                    article.quantity -= 1;
                 }
             }
             MessageBox.Show("Article has been borrowed!");

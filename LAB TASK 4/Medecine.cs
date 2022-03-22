@@ -15,5 +15,14 @@ namespace LAB_TASK_4
         public int price;
         public int balance=0;
 
+        public Medecine(int id,string name,string power,int quantity,int price)
+        {
+            this.id = id;
+            this.name = name;
+            this.power = power;
+            this.quantity = quantity;
+            this.price = price;
+        }
+
     }
 }

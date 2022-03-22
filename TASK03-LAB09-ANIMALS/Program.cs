@@ -13,9 +13,9 @@ public class Animal
 
     public Animal()
     {
-        this.nameOfAnimal = "cat";
-        this.habitat_area = "houses";
-        this.sound = "meow";
+        this.nameOfAnimal = " ";
+        this.habitat_area = "";
+        this.sound = "";
         this.weight = 4;
         this.height = 20;
     }
